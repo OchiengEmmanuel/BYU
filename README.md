@@ -1,5 +1,5 @@
 # BYU
-# <Your Name Here>
+# Emmanuel Ochieng
 
 Hello, GitHub! 👋
 
