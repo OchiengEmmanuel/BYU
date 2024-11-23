@@ -3,7 +3,7 @@
 
 Hello, GitHub! 👋
 
-I'm Emmanuel Ochieng, a student at Brigham Young University-Idaho interested in system adminstration, data science, Database Design, Machine learning, and Cybersecurity. Welcome to my GitHub profile!
+I'm Emmanuel Ochieng, a student at Brigham Young University-Idaho interested in System Adminstration, Data Science, Database Design, Machine learning, and Cybersecurity. Welcome to my GitHub profile!
 
 ## About Me
 
