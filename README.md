@@ -1,4 +1,4 @@
-# BYU
+# BYU-I
 # Emmanuel Ochieng
 
 Hello, GitHub! 👋
